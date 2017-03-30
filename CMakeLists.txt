@@ -42,7 +42,8 @@ add_message_files(
   DIRECTORY
     msg
   FILES
-    target.msg
+    Target.msg
+    MotorPos.msg
 )
 
 # Generate added messages and services with any dependencies listed here
