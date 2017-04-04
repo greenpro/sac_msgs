@@ -44,6 +44,7 @@ add_message_files(
   FILES
     Target.msg
     MotorPos.msg
+    HandPos.msg
 )
 
 # Generate added messages and services with any dependencies listed here
