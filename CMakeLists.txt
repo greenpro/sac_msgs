@@ -47,6 +47,17 @@ add_message_files(
     HandPos.msg
 )
 
+add_service_files(
+  DIRECTORY
+    srv
+  FILES
+    MotorPosition.srv
+    MotorSpeed.srv
+    MotorsComplete.srv
+    MotorOffset.srv
+    Encoder.srv
+)
+
 # Generate added messages and services with any dependencies listed here
 generate_messages(
   DEPENDENCIES

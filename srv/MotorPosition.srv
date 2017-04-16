@@ -1,0 +1,4 @@
+int32 motor
+int32 angle
+---
+bool result
