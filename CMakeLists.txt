@@ -54,7 +54,7 @@ add_service_files(
     MotorPosition.srv
     MotorSpeed.srv
     MotorsComplete.srv
-    MotorOffset.srv
+    MotorsOffset.srv
     Encoder.srv
 )
 
