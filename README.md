@@ -17,4 +17,7 @@ To install the Southern Arm Control workspace download sac_setup from https://gi
 
 ## Folders
 ### msg/
-* This folder contains the custom message files for the project.
+* This folder contains the custom message description files for the project.
+
+### srv/
+* This folder contains the custom service message description files for the project.
