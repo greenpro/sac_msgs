@@ -1,3 +1,4 @@
 int32 motor
 ---
 bool result
+bool disconnected

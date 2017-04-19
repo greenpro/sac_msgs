@@ -2,3 +2,4 @@ int32 motor
 int32 speed
 ---
 bool result
+bool disconnected
