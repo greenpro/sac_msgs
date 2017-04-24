@@ -12,5 +12,8 @@ This folder holds the files used to generate the messages for the project.
 ### Target.msg
 * This message type will be used to pass endpoint targets from the controllers to the translators.
 
+### Path.msg
+* This message type will be used to pass a straight line path with a beginning and ending points from the controllers to the translators.
+
 ## Notes
 * The code for these files comes from the ROS documentation and simple github examples.
