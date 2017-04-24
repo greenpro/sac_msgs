@@ -42,6 +42,7 @@ add_message_files(
   DIRECTORY
     msg
   FILES
+    Path.msg
     Target.msg
     MotorPos.msg
     HandPos.msg
