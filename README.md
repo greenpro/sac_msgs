@@ -1,6 +1,6 @@
 # Southern Arm Control Messages
 
-This project holds the custom messages for the Southern Arm Control workspace.
+This project holds the custom messages for the Southern Arm Control workspace. Full documentation for the sac project can be found at craigcode1010.com under projects > SAC.
 
 ## Installation
 
